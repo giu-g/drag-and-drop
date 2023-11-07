@@ -1,0 +1,35 @@
+#div1,
+#div3,
+#div5,
+#div7,
+#div9,
+#div11 {
+    float: left;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#div2,
+#div4,
+#div6,
+#div8,
+#div10,
+#div12 {
+    float: left;
+    width: 100px;
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
